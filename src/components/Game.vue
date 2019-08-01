@@ -8,16 +8,21 @@
 
 <script>
 export default {
-  name: 'Game',
+  name: 'game',
   data() {
     return {
       downloaded: false
     }
   },
   async mounted() {
+    if (!window.location.href.includes('play')) {
+      return
+    }
     const game = await import(/* webpackChunkName: "game" */ '@/game/game')
     this.downloaded = true
-    this.$nextTick(() => game.launch())
+    this.$nextTick(() => {
+      game.launch()
+    })
   }
 }
 </script>
