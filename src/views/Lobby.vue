@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid w-100 h-100">
         <div class="row h-100">
-            <div class="col-12 col-md-5 col-lg-4">
+            <div class="col-12 col-md-5 col-lg-4 pt-5">
                 <initial-bar @newPlayer="newPlayer"></initial-bar>
             </div>
             <div class="col-12 col-md-7 col-lg-8">

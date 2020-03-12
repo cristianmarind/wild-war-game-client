@@ -5,7 +5,7 @@
         <play-bar @selectServer="selectServer"></play-bar>
       </div>
       <div class="col-12 col-md-7 col-lg-8 d-flex justify-content-center align-items-center">
-        <div>
+        <div class="shadow-lg p-3 mb-5 rounded">
           <game />
         </div>
       </div>

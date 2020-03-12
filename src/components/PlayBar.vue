@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <h1 class="text-center mt-5">Wild War</h1>
+                <h1 class="text-center text-light mt-5">Wild War</h1>
             </div>
         </div>
         <div class="row">
