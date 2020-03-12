@@ -25,7 +25,6 @@
         <div class="row">
             <div class="col">
                 <h6 class="text-center mb-4">¿Como jugar?</h6>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/Qx-GXD7L0vg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <p class="mt-3">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel accusantium, aliquam omnis soluta repudiandae laboriosam eius fugit sunt quis a consequatur id ipsum reprehenderit quaerat, amet alias deserunt quasi dolor.
                 Accusamus excepturi adipisci dolores dolorum vel. Laborum, dicta sequi. Sed, modi ullam similique officiis esse iste laborum itaque consectetur dicta quisquam maiores praesentium ex quos deserunt veritatis, ut quis blanditiis!
                 Necessitatibus doloremque explicabo id, dolorem expedita tempore tenetur quisquam nulla aut voluptates laudantium obcaecati eaque iusto alias exercitationem optio perferendis molestias ipsa, quos quidem quod hic dolorum qui! Harum, nihil!

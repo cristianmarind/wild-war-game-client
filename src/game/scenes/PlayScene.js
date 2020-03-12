@@ -132,7 +132,7 @@ export default class PlayScene extends Scene {
                         clearInterval(auxInterval)
                     }
                     _self.emitMyPosition()
-                }, 5000)
+                }, 3000)
                 break;
             case 'newPlayer':
                 this.createPlayer(this.data.player)

@@ -8,7 +8,7 @@ const store = new Vuex.Store({
     state: {
       playerId: '',
       serverId: -1,
-      host: 'localhost:3000',
+      host: '192.168.30.29:3000',
       isDownloaded: false
     },
     getters: {
